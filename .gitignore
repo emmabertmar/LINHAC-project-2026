@@ -1,2 +1,11 @@
+# Data (för stor för git)
 Linhac24-25_Sportlogiq.csv
-.venv
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
